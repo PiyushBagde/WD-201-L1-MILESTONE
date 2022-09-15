@@ -1,7 +1,7 @@
 const hello = 'Hello'
 
 const returnHello = () => {
-    console.log(hello);
+    console.log("Hello Node.js!");
 }
 
 returnHello();
